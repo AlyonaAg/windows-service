@@ -1,0 +1,7 @@
+C://BSIT_lab3/1.zip
+C://BSIT_lab3/1/
+*eadme.txt
+*.docx
+Y*.exe
+ser?er.cpp
+?.exe
